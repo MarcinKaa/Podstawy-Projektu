@@ -5,10 +5,14 @@ Pilk jest w branchu main -> master
 
 Zmiany w Git'cie
 
+
 #Changelog
 -Dodano funkcje która sprawdza czy liczba jest liczbą pierwszą
+-Tworzymy nowy konflikt
+-Dodana funkcja
 
 
 #Kontakt
 
 blabla@op.pl
+
